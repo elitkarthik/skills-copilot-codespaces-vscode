@@ -1,5 +1,5 @@
 {
-    // Name this configuration
+    // Name this configuration - edit for github actions sake
     "name": "Codespace for Skills!",
     "customizations": {
         "vscode": {
